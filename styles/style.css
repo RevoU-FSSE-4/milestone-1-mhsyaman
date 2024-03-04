@@ -1,0 +1,25 @@
+.navbar > ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 1rem;
+    position: relative;
+}
+
+.sticky {
+    position: sticky;
+}
+
+.top-profile {
+    font-size: large;
+    background-image: url;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+/* footer > p {
+    color: aqua;
+} */
