@@ -1,19 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: aliceblue;
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+}
+
 .navbar > ul {
     display: flex;
     justify-content: center;
     list-style: none;
     gap: 1rem;
     position: relative;
+    padding: 1rem;
+    background-color: black;
+    /* z-index: 1000; */
+    border-bottom: 1px solid aliceblue;
 }
 
-.sticky {
+.navbar ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.hero-section {
+    border: 1px solid aliceblue;
+    margin: 5rem 10rem;
+    padding: 8rem 5rem;
+    block-size: 20rem 10rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hero-section > .hero-text > h1{
+    font-size: 5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.hero-section > .hero-text > p {
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+
+.hero-section > .hero-image > img {
+    width: 20rem; /* Sesuaikan dengan ukuran hero-text */
+    height: 20rem; /* Sesuaikan dengan ukuran hero-text */
+    border-radius: 50%; /* Membuat gambar menjadi lingkaran */
+}
+
+
+
+/* .sticky {
     position: sticky;
-}
+    top: 0;
+} */
 
-.top-profile {
+/* .top-profile {
     font-size: large;
     background-image: url;
-}
+} */
 
 footer {
     display: flex;
