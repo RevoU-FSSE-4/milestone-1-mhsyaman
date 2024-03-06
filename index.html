@@ -5,13 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muhammad Syaman Profile</title>
     <link rel="stylesheet" href="styles/style.css">
-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
         <nav class="navbar sticky">
             <ul>
-                <li><a href="#home">Home</a></li>
+                <li><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#journey">Journey</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
@@ -21,9 +23,15 @@
     </header>
 
     <main>
-        <section class="home">
-            <h1>Muhammad Syaman</h1>
-            <h2>Web Developer</h2>
+        <section class="hero-section">
+            <div class="hero-text">
+                <h1 id="typedText"></h1>
+                <p>I'm Front-end Developer Beginner</p>
+            </div>
+
+            <div class="hero-image">
+                <img src="assets/images/profile/profiles.jpg" alt="">
+            </div>
         </section>
 
         <section class="about">
@@ -40,7 +48,7 @@
             <div class="project-portfolio">
                 <figure>
                     <img src="" alt="">
-                    <figcaption>Kirby - Personal Project</figcaption>
+                    <figcaption>Assignment Revou FSSE Trial</figcaption>
                 </figure>
             </div>
         </section>
@@ -53,5 +61,7 @@
     <footer>
         <p>Made with ❤️ by Muhammad Syaman</p>
     </footer>
+
+    <script src="scripts/script.js"></script>
 </body>
 </html>
