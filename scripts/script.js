@@ -1,4 +1,4 @@
-const textToType = ["Welcome to,", "QuickType Design & Typing Agency"];
+const textToType = ["Welcome to,", "Syaman Agency"];
 
 let index = 0;
 let wordIndex = 0;
