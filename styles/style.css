@@ -13,18 +13,17 @@ body {
     display: flex;
     justify-content: center;
     list-style: none;
-    gap: 1rem;
+    gap: 1.5rem;
     position: relative;
     padding: 1rem;
     background-color: black;
-    /* z-index: 1000; */
     border-bottom: 1px solid aliceblue;
 }
 
 .navbar ul li a {
     color: aliceblue;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .hero-section {
@@ -48,28 +47,56 @@ body {
 }
 
 .hero-section > .hero-image > img {
-    width: 20rem; /* Sesuaikan dengan ukuran hero-text */
-    height: 20rem; /* Sesuaikan dengan ukuran hero-text */
-    border-radius: 50%; /* Membuat gambar menjadi lingkaran */
+    width: 20rem; 
+    height: 20rem; 
+    border-radius: 50%; 
 }
 
+h2 {
+    font-size: 2.5rem;
+}
 
+p {
+    font-size: 1.5rem;
+}
 
-/* .sticky {
-    position: sticky;
-    top: 0;
-} */
+#about, #journey, #portfolio, #contact {
+    padding: 0rem 10rem;
+}
 
-/* .top-profile {
-    font-size: large;
-    background-image: url;
-} */
-
-footer {
+#about > h2 {
     display: flex;
     justify-content: center;
 }
 
-/* footer > p {
-    color: aqua;
-} */
+#about > p {
+    padding: 1rem 0;
+}
+
+#contact > h2 {
+    display: flex;
+    justify-content: center;
+}
+
+#contact a {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem 0;
+}
+
+#contact a img {
+    width: 300px;
+    height: 300px;
+}
+
+main h2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
