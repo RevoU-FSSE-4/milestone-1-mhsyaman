@@ -30,15 +30,15 @@ body {
     border: 1px solid aliceblue;
     margin: 5rem 10rem;
     padding: 8rem 5rem;
-    block-size: 20rem 10rem;
+    block-size: 0rem 10rem;
     display: flex;
-    justify-content: space-evenly;
 }
 
 .hero-section > .hero-text > h1{
     font-size: 5rem;
     font-weight: 600;
     margin-bottom: 1rem;
+    margin-right: 2rem;
 }
 
 .hero-section > .hero-text > p {
@@ -46,22 +46,17 @@ body {
     margin-top: 2rem;
 }
 
-.hero-section > .hero-image > img {
-    width: 20rem; 
-    height: 20rem; 
-    border-radius: 50%; 
-}
-
 h2 {
     font-size: 2.5rem;
+    margin-top: 1rem;
 }
 
 p {
     font-size: 1.5rem;
 }
 
-#about, #journey, #portfolio, #contact {
-    padding: 0rem 10rem;
+#about, #services, #portfolio, #contact {
+    padding: 0 10rem;
 }
 
 #about > h2 {
@@ -73,9 +68,24 @@ p {
     padding: 1rem 0;
 }
 
+#services > h2 {
+    display: flex;
+    justify-content: center;
+}
+
+#services > p {
+    padding: 1rem 0;
+}
+
 #contact > h2 {
     display: flex;
     justify-content: center;
+}
+
+#contact > p {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
 }
 
 #contact a {
@@ -89,6 +99,38 @@ p {
     height: 300px;
 }
 
+.portfolio-item {
+    position: relative; 
+    margin-bottom: 20px;    
+}
+
+.portfolio-container {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.portfolio-item img {
+    width: 100%; 
+    height: auto; 
+}
+
+.portfolio-item figcaption {
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: #fff; 
+    padding: 10px; 
+    margin: 0; 
+    opacity: 0; 
+    transition: opacity 0.3s ease; 
+}
+
+.portfolio-item:hover figcaption {
+    opacity: 1; 
+}
+
 main h2 {
     display: flex;
     justify-content: center;
@@ -96,7 +138,66 @@ main h2 {
 
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 2rem 0;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 0.5rem 0;
+}
+
+footer::after {
+    /* content: "© 2024 Muhammad Syaman. All rights reserved."; */
+    display: block;
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 14px; /* Adjust font size for better readability on smaller screens */
+    }
+
+    .navbar > ul {
+        flex-direction: column; /* Stack navigation links vertically */
+        align-items: center; /* Center align navigation links */
+        padding: 1rem 0; /* Adjust padding */
+    }
+
+    .navbar ul li a {
+        font-size: 1.2rem; /* Decrease font size of navigation links */
+    }
+
+    .hero-section {
+        margin: 2rem 1rem; /* Adjust margin */
+        padding: 4rem 2rem; /* Adjust padding */
+    }
+
+    .hero-section > .hero-text > h1 {
+        font-size: 2.25rem; /* Decrease font size */
+        margin-right: 0; /* Remove margin */
+    }
+
+    .hero-section > .hero-text > p {
+        font-size: 1.5rem; /* Decrease font size */
+        margin-right: 0; /* Remove margin */
+    }
+
+    #about, #services, #portfolio, #contact {
+        padding: 0 2rem; /* Adjust padding */
+    }
+
+    .portfolio-item figcaption {
+        font-size: 1rem; /* Decrease font size */
+    }
+
+    #contact a img {
+        width: 200px; /* Adjust image size */
+        height: 200px; /* Adjust image size */
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-top: 0.5rem;
+    }
+    
+    p {
+        font-size: 1rem;
+    }
 }
