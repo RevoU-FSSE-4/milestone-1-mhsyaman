@@ -15,20 +15,19 @@ This is website about web design and speed typing service provider.
     ![Screenshot 2024-03-08 173717](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/e291a6d0-a077-4840-9a13-96e8a79fa9a7)
 
 3. Deploy with Github
-    ![Screenshot 2024-03-08 173741](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/926656f0-cbf3-4876-b0b8-0bb2e5601162)
-
-4. Select your project to deploy
     ![Screenshot 2024-03-08 173804](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/4ee3bf5d-530a-4239-94aa-bed61d76637b)
 
-5. Fill in the site name as you wish. 
+4. Select your project to deploy
     ![Screenshot 2024-03-08 173956](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/199e7bde-9867-426b-93e6-cbafeb67a6f0)
+
+5. Fill in the site name as you wish and click deploy project
     ![Screenshot 2024-03-08 174020](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/540f45a5-8896-4675-ba02-51a86900437d)
+    ![Screenshot 2024-03-08 174058](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/6e238cc2-42f3-4680-990f-65c6527fa5c5)
 
 6. Wait for the deployment to complete.
-    ![Screenshot 2024-03-01 201557](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/7fa0e1fa-3a0c-41c9-a2ef-f749edea310e)
-    ![Screenshot 2024-03-01 201652](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/beafacdd-6e1e-4e68-8762-024b5ee36cfb)
+    ![Screenshot 2024-03-08 174157](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/a575f349-3cb6-4a89-b0ea-13108698b0aa)
 
-7. Klik link [alphawatchzone.netlify.app](https://alphawatchzone.netlify.app/) and deploy website in Netlify is done
+7. Click link [alphawatchzone.netlify.app](https://alphawatchzone.netlify.app/) and deploy website in Netlify is done
     ![Screenshot 2024-03-01 201749](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/35dbbdcb-1fab-4d1f-a625-f45242b5cc2f)
 
 
@@ -37,15 +36,14 @@ This is website about web design and speed typing service provider.
 1. Login Niagahoster
     ![Screenshot 2024-03-01 202912](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/3f7e8fc6-2141-47b2-8a27-90dc125559a5)
 
-2. Click towards Domains and fill in the domain name as you wish. Here with an example of "alphawatchzone".
-    ![Screenshot 2024-03-01 203001](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/4fec5408-7df0-4983-bdea-4def632f4bb8)
-    ![Screenshot 2024-03-01 203103](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/37a07a8b-8f4b-46f3-8444-13bcdf335e74)
+2. Click towards Domains and fill in the domain name as you wish. Choose the site domain you want and make payment and finish registration.
+    ![Screenshot 2024-03-08 174550](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/cb1c4722-5f04-4f88-a0c4-626a350929f2)
 
-3. Choose the site domain you want and make payment and finish registration
-    ![Screenshot 2024-03-01 203130](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/d73da34d-f8da-4247-b545-0d290f8b25bd)
+3. Until have notification done buy domain
+    ![Screenshot 2024-03-08 175336](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/5bbbdf1a-2485-4ef4-ab09-a2b840f341d8)
 
 4. This is the result of buying a domain and I am here buying with the domain my.id
-    ![Screenshot 2024-03-01 205357](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/8f488ebc-b974-4b2d-964b-a4ec80cfda2c)
+    ![Screenshot 2024-03-08 180929](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/4324f395-ec03-452d-9448-945169c0218d)
 
 
 ## Connect Netlify to a Purchased DNS
