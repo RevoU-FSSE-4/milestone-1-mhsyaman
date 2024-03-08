@@ -6,7 +6,7 @@
 
 This is website about web design and speed typing service provider.
 
-# Deployment Netlify
+## Deployment Netlify
 
 1. Login Netlify
     ![Screenshot 2024-03-08 173656](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/d4e1c612-ef4f-400f-b004-cc1b2ca01b7a)
@@ -27,8 +27,8 @@ This is website about web design and speed typing service provider.
 6. Wait for the deployment to complete.
     ![Screenshot 2024-03-08 174157](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/a575f349-3cb6-4a89-b0ea-13108698b0aa)
 
-7. Click link [alphawatchzone.netlify.app](https://alphawatchzone.netlify.app/) and deploy website in Netlify is done
-    ![Screenshot 2024-03-01 201749](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/35dbbdcb-1fab-4d1f-a625-f45242b5cc2f)
+7. Click link [website](https://syaman-agency.netlify.app/) and deploy website in Netlify is done
+    ![Screenshot 2024-03-08 205122](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/39838687-8e08-498c-9bf1-4fa381ef05c7)
 
 
 ## Buy DNS at Niagahoster
@@ -48,36 +48,34 @@ This is website about web design and speed typing service provider.
 
 ## Connect Netlify to a Purchased DNS
 
-1. Click to DNS / Nameservers in Niagahoster
-    ![Screenshot 2024-03-01 210117](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/4d2c4677-77b4-4a65-b4b8-2fa86bf209a2)
+1. Open your domains in Niagahoster and choose your domain to connect netlify
+    ![Screenshot 2024-03-08 205702](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/1e822643-cf80-4942-9269-e7553e7f9be5)
 
-2. Click Change Nameservers
-    ![Screenshot 2024-03-01 210146](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/78e0f16d-e65d-48ef-8a0c-7300d7943ff3)
+2. Click to DNS / Nameservers in Niagahoster and click change nameservers
+    ![Screenshot 2024-03-08 205949](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/35f0b3cf-2394-4289-89d1-64f63d3032b2)
 
 3. Select a Change nameservers
-    ![Screenshot 2024-03-01 210159](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/f615f8ac-61ca-4e75-babd-3e348c5833bf)
+    ![Screenshot 2024-03-08 210036](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/2c80f246-562f-42ae-847d-afcc8a35a039)
 
 
-4. Move to Netlify, click Domain Management --> click Add a domain
-    ![Screenshot 2024-03-01 210623](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/e712c469-0bb6-4196-83d5-c405fae88ff0)
+4. Move to Netlify, click Domain Management and click Add a domain. Fill the domain that matches the one that has been purchased at niagahoster.
+    ![Screenshot 2024-03-08 210447](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/d8a9e3a6-2d07-4e6e-a828-c17cf0520a8e)
 
-5. Enter the domain that matches the one that has been purchased at niagahoster.
-    ![Screenshot 2024-03-01 210818](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/0baabed6-cdd0-43fa-9b4a-fb736bc91636)
-    ![Screenshot 2024-03-01 211542](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/38703657-d935-443b-8501-164cf718ebfd)
+5. Once it looks like this, click 'Awaiting External DNS'.
+    ![Screenshot 2024-03-08 210447](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/b749b20b-17ae-4d19-b07e-3f32c01fe75c)
 
-6. Once it looks like this, click 'Awaiting External DNS'.
-    ![Screenshot 2024-03-01 211640](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/44a50f84-789e-4133-991f-3c2e1b9d6865)
-    ![Screenshot 2024-03-01 212059](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/b9243120-a907-4afb-9d53-0b63da6a8968)
+6. Copy all hostnames into the nameservers in Niagahoster and save.
+    ![Screenshot 2024-03-08 211039](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/70aa8061-fb91-48ad-89cf-0ba8b4d9bd44)
 
-7. Copy all hostnames into the nameservers in Niagahoster and save.
-    ![Screenshot 2024-03-01 212431](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/2c0e904a-fdd9-49e3-a57e-337f39be545b)
+    ![Screenshot 2024-03-08 211144](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/f7ed6a6b-89d0-4258-9154-2c1911b02072)
 
-8. After getting the notification, just wait a few minutes until the process is complete
-    ![Screenshot 2024-03-01 212633](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/dc1d2f9e-8cda-4791-ac81-558e9e58757a)
+9. After getting the notification, just wait a few minutes until the process is complete
+    ![Screenshot 2024-03-08 211205](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/2e03f656-e005-4ac9-8b79-4695800aac77)
 
-9. Go back to Netlify to see the Netlify DNS checked status.
-    ![Screenshot 2024-03-01 213053](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/7b8a863f-a26a-4590-b91a-1e2aac205722)
+10. Go back to Netlify to see the Netlify DNS checked status.
+    ![Screenshot 2024-03-08 211706](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/b3f2e2e0-b113-42a0-8026-a3ec0c71506c)
 
-10. Click [alphawatchzone.my.id](http://alphawatchzone.my.id/) and the website has been deployed with the domain that has been purchased.
-    ![Screenshot 2024-03-01 213300](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/1071f6a9-429c-40d4-9ee0-c9d89d20e6f4)
+
+11. Click Site Overview and check link the [website](https://syaman-agency.my.id/) has been deployed with the domain that has been purchased.
+    ![Screenshot 2024-03-08 211827](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/80183122-4518-4ee6-bf87-2b5e3867adaf)
 
