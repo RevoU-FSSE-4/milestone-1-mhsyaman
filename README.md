@@ -6,23 +6,23 @@
 
 This is website about web design and speed typing service provider.
 
-# Deployment
+# Deployment Netlify
 
 1. Login Netlify
-    ![](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/b8dfb517-b5d3-4b27-b717-521df0afbc25)
+    ![Screenshot 2024-03-08 173656](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/d4e1c612-ef4f-400f-b004-cc1b2ca01b7a)
 
 2. Add new site --> Import an existing project
-    ![Screenshot 2024-03-01 195720](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/4a024080-0039-488c-9acb-5759c025e8d6)
+    ![Screenshot 2024-03-08 173717](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/e291a6d0-a077-4840-9a13-96e8a79fa9a7)
 
-3. Deploy with Github and waiting is done
-    ![Screenshot 2024-03-01 200459](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/627a50ab-67d6-4be9-b43d-c6785c055207)
+3. Deploy with Github
+    ![Screenshot 2024-03-08 173741](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/926656f0-cbf3-4876-b0b8-0bb2e5601162)
 
-4. Select module-2-mhsyaman to deploy
-    ![Screenshot 2024-03-01 200835](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/97e29d2c-9a6f-42fd-9621-725236a74b8f)
+4. Select your project to deploy
+    ![Screenshot 2024-03-08 173804](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/4ee3bf5d-530a-4239-94aa-bed61d76637b)
 
-5. Fill in the site name as you wish. Here as an example "alphawatchzone" and click button deploy alphawatchzone
-    ![Screenshot 2024-03-01 201257](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/e93501dc-34bf-4be6-873c-caaf2fb8fb2e)
-    ![Screenshot 2024-03-01 201452](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/deab2b19-3d76-4458-b401-0010a1b9cedb)
+5. Fill in the site name as you wish. 
+    ![Screenshot 2024-03-08 173956](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/199e7bde-9867-426b-93e6-cbafeb67a6f0)
+    ![Screenshot 2024-03-08 174020](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/540f45a5-8896-4675-ba02-51a86900437d)
 
 6. Wait for the deployment to complete.
     ![Screenshot 2024-03-01 201557](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/7fa0e1fa-3a0c-41c9-a2ef-f749edea310e)
@@ -32,7 +32,7 @@ This is website about web design and speed typing service provider.
     ![Screenshot 2024-03-01 201749](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/35dbbdcb-1fab-4d1f-a625-f45242b5cc2f)
 
 
-## Documentation of Buy DNS at Niagahoster
+## Buy DNS at Niagahoster
 
 1. Login Niagahoster
     ![Screenshot 2024-03-01 202912](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/3f7e8fc6-2141-47b2-8a27-90dc125559a5)
@@ -41,20 +41,14 @@ This is website about web design and speed typing service provider.
     ![Screenshot 2024-03-01 203001](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/4fec5408-7df0-4983-bdea-4def632f4bb8)
     ![Screenshot 2024-03-01 203103](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/37a07a8b-8f4b-46f3-8444-13bcdf335e74)
 
-3. Choose the site domain you want.
+3. Choose the site domain you want and make payment and finish registration
     ![Screenshot 2024-03-01 203130](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/d73da34d-f8da-4247-b545-0d290f8b25bd)
 
-4. Click 'buy domain' to make payment and click 'choose payment method'
-    ![Screenshot 2024-03-01 204958](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/3c5d8b67-0e3c-4412-8656-e515f38e047b)
-
-5. Select the payment method you are using and wait for the process to complete.
-    ![Screenshot 2024-03-01 205125](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/028c1ee3-5771-45dd-b319-e6a38b09f7de)
-
-6. This is the result of buying a domain and I am here buying with the domain my.id
+4. This is the result of buying a domain and I am here buying with the domain my.id
     ![Screenshot 2024-03-01 205357](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/8f488ebc-b974-4b2d-964b-a4ec80cfda2c)
 
 
-## Documentation on How to Connect Netlify to a Purchased DNS
+## Connect Netlify to a Purchased DNS
 
 1. Click to DNS / Nameservers in Niagahoster
     ![Screenshot 2024-03-01 210117](https://github.com/RevoU-FSSE-4/module-2-mhsyaman/assets/98678219/4d2c4677-77b4-4a65-b4b8-2fa86bf209a2)
