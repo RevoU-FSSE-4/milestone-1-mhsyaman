@@ -62,7 +62,7 @@ This is website about web design and speed typing service provider.
     ![Screenshot 2024-03-08 210447](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/d8a9e3a6-2d07-4e6e-a828-c17cf0520a8e)
 
 5. Once it looks like this, click 'Awaiting External DNS'.
-    ![Screenshot 2024-03-08 210447](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/b749b20b-17ae-4d19-b07e-3f32c01fe75c)
+    ![Screenshot 2024-03-08 210542](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/74a789a4-fc82-4eaa-8d67-bbde16d3db7a)
 
 6. Copy all hostnames into the nameservers in Niagahoster and save.
     ![Screenshot 2024-03-08 211039](https://github.com/RevoU-FSSE-4/milestone-1-mhsyaman/assets/98678219/70aa8061-fb91-48ad-89cf-0ba8b4d9bd44)
